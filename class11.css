@@ -4,6 +4,7 @@ p::after{
 p::before{
     content: "This is the para";
 }
+
 p::first-letter{
     background-color: red;
 }
