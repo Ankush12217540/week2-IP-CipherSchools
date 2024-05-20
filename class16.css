@@ -15,7 +15,7 @@ div{
 .Static{
     position: static;
 }
-
+ 
 .Relative {
     position: relative;
     top: 50px;
