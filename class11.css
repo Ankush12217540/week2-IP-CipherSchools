@@ -7,7 +7,7 @@ p::before{
 
 p::first-letter{
     background-color: red;
-}
+} 
 p::first-line{
     color: royalblue;
 }
